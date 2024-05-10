@@ -1,0 +1,249 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+.background-container{
+    
+    background-image: url("https://res.cloudinary.com/dsswcvdhn/image/upload/v1704049896/EarlyExam/pexels-codioful-_formerly-gradienta_-7135054_fngf1i.jpg");
+    background-size: cover;
+    
+    padding-top: 50px;
+}
+.navbar-margin{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.navbar-card{
+    padding: 25px;
+    border-radius: 10px;
+}
+.navbar-text-design{
+    font-size: 18px;
+    
+    font-weight: 520;
+    color: #000000 !important;
+    font-family: sans-serif !important;
+    border-color:#000000;
+}
+.navbar-text-design:hover{
+    color: #03bcff !important;
+    text-shadow: #03bcff !important;
+    
+}
+
+
+.screensnap-card{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.imgg{
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #0d2436;
+}
+.logo-navbar{
+    
+    width: 150px !important;
+}
+
+
+.headline-card{
+    
+    margin-top: 100px;
+   
+}
+.cbt-text{
+    font-weight: 800;
+    color: #00d5ff;
+    font-family: 'Roboto';
+    font-style: italic;
+}
+.knowmore{
+    color: #19a1bd ;
+}
+.para-explain{
+    padding-top: 100px;
+    margin-top: 100px;
+    color: #333;
+    font-family:sans-serif;
+    font-size: 30px;
+}
+
+.btn-dark{
+    background-color: #0d2436 !important;
+}
+.req-demo{
+    margin-top: 70px;
+    text-align: center;
+}
+.institute-para{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+  .home-img {
+    width: 150px;
+  }
+  .home-heading {
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 56px;
+    color: #3d3d3d;
+  }
+  
+
+
+  .background-main{
+    background-color: #4aff80;
+    background-size: cover;
+   
+    
+    
+}
+
+
+.crs{
+    border-radius: 20px;
+}
+
+.crs-card{
+    
+    width: 90vw;
+    padding: 20px;
+    margin: auto;
+    
+}
+
+.head-card{
+    text-align: center;
+}
+.noww{
+    color: crimson;
+}
+
+.headline{
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.verified-card{
+    padding: 40px;
+}
+
+.doctor-img{
+    height: 500px;
+}
+.doctor-card{
+    padding: 40px;
+    padding-left: 100px;
+}
+.beng-dctr{
+    font-weight: bold;
+    padding: 15px;
+    color: #8400ff;
+}
+
+.talk-btn{
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 40px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.button-card{
+    text-align: center;
+}
+
+
+
+
+
+
+.bg {
+    background-color: #0d2436;
+}
+
+.logo {
+
+    width: 180px;
+}
+
+.icon {
+    color: #597184;
+    font-size: 25px;
+
+}
+
+.iconbg {
+    background-color: #152C3E;
+    height: 40px;
+    width: 50px;
+    padding-top: 8px;
+    padding-left: 8px;
+    border-radius: 40px;
+    margin: 10px;
+
+}
+
+
+.para-graph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.color {
+    background-color: #5a7184;
+}
+
+
+
