@@ -101,7 +101,7 @@ export default function Home() {
                     </div>
                     <h6 className="text-xl font-semibold"> Enhanced Insights </h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Through Admin portal you can track student's progress, generate marksheet of you students and many more features.To know more in detail, ask for a free demo.
+                      Through Admin portal you can track student's progress, generate marksheet of your students and many more features.To know more in detail, ask for a free demo.
                     </p>
                   </div>
                 </div>
@@ -256,7 +256,7 @@ export default function Home() {
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">Catalyze Student Achievement!</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                Maximize educational impact with Exam Mint, designed for your institute's advancement.
+                Maximize educational impact with Exam Slate, designed for your institute's advancement.
                  </p>
               </div>
             </div>
@@ -294,7 +294,7 @@ export default function Home() {
                 </h2>
                 <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-400">
                 
-                Join us in revolutionizing assessments at your institute. Exam Mint offers tailored solutions to streamline exams and enhance learning outcomes.
+                Join us in revolutionizing assessments at your institute. Exam Slate offers tailored solutions to streamline exams and enhance learning outcomes.
                 </p>
               </div>
             </div>
